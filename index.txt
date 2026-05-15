@@ -1,0 +1,109 @@
+VummaneniCharan-Portfolio
+
+# sidebar
+
+alt = VummaneniCharan
+VummaneniCharan
+Web developer
+
+Show Contacts
+
+Email
+name@example.com
+
+Phone
++910000000000
+
+Birthday
+December 14, 2002
+
+Location
+Vijayawada,andhrapradesh,india
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+
+
+
+## service
+
+What i'm doing
+
+
+## testimonials
+
+Testimonials
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+
+Experience
+
+Creative director
+
+
+My skills
+
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+DSM.
+Web design
+
+
+
+# blog
+
+Blog
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
